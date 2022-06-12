@@ -29,7 +29,7 @@ import cz.msebera.android.httpclient.Header;
 public class MainActivity extends AppCompatActivity {
 
 
-    final String APP_ID = "dab3af44de7d24ae7ff86549334e45bd";
+  final String APP_ID = "b20c0a2a8cd9e6b89906642c238d3b22";
     final String WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather";
 
     final long MIN_TIME = 5000;
